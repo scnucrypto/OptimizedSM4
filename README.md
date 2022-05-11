@@ -32,7 +32,7 @@ $ make
 $ ../bin/lut_sm4
 ```
 
-## LUT-SM4
+## OpenSSL-BS-SM4
 ref:基于塔域的SM4算法快速软件实现
 实现方案：openssl+比特切片+SIMD(AVX2/AVX512)+SM4
 ### 快速编译及测试
